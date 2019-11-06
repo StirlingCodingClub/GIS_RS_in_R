@@ -20,6 +20,9 @@ install.packages('rgdal', 'raster', 'sp',
                  'mapview', 'tmap')
 ```
 
+Data: https://drive.google.com/drive/folders/1B4fRJU0XjpoGnvP9UHNqh8PSWEVl5ctD?usp=sharing
+
+
 ## Examples - reading data in
 
 Reading raster data as a `raster` object:
